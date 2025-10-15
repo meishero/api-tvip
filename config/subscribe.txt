@@ -28,3 +28,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/main/assets/freetv/fre
 https://raw.githubusercontent.com/kimwang1978/collect-txt/main/assets/special/special.txt
 
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+
+#可能有用
+https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/陕西移动回看.txt
