@@ -77,7 +77,7 @@ FZTV3,FZTV-3,福州生活,福州3-生活
 港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
 中央電視台綜合頻道,中央電視台綜合頻道（CCTV-1綜合),CCTV-1綜合,RTHK33,RTHK 33,RTHK-33
 中國環球電視網紀錄頻道,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34
-CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
+CGTN英語頻道,CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 港台电视 36,港台電視 36,RTHK36,RTHK 36,RTHK-36
 
 *HOY 國際財經台,HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台,HOY国际财经台
@@ -96,7 +96,6 @@ NewTV哒啵电竞,哒啵电竞
 
 SiTV游戏风云,游戏风云
 SiTV动漫秀场,动漫秀场
-SiTV游戏风云,游戏风云
 
 iHOT爱动漫,爱动漫
 iHOT新动漫,新动漫
